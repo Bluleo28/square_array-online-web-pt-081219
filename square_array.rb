@@ -1,5 +1,6 @@
 def square_array(numbers)
    numbers = [ 1,2,3]
+   # tonot.
 end
 def square_array(array)
   ([1,2,3]) => [1, 4, 9])
