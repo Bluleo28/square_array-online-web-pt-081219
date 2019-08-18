@@ -3,4 +3,3 @@ def square_array(array)
 end
 def square_array(numbers)
 ([1,2,3]).each(*(1, 4, 9))
-end
