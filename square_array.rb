@@ -11,7 +11,7 @@ end
   square_array(numbers)
 end
 
-def square_array(new_numbers)
-  
+def 
+  (1,2,3,4) => 
   (9,10,16,25) => [81,100,256,625]
 end
