@@ -7,7 +7,7 @@ def  square_array(array)
 end
 
   numbers= [1,2,3]
-  ([1,2,3])to.recieve(.each)
+  [1,2,3].recieve(.each)
   square_array(numbers)
 end
 
