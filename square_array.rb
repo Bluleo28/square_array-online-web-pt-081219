@@ -1,8 +1,8 @@
 def  square_array(array)
     numbers = [ 1,2,3]
-    [1]tonot.recieve(.each)
-    [2]tonot.recieve(.collect)
-    [3]tonot. recieve(.inject)
+    [1]not.recieve(each)
+    [2]not.recieve(collect)
+    [3]not. recieve(inject)
     square_array(numbers)
 end
 
