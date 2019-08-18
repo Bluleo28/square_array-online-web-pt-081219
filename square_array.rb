@@ -4,7 +4,7 @@ def  square_array(array)
     [2]tonot.recieve(.collect)
     [3]tonot. recieve(.inject)def square_array(numbers)
 end
-def square_array(array)
+
   ([1,2,3]) => [1, 4, 9])
 end
 
